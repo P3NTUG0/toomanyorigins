@@ -1,7 +1,7 @@
 # TooManyOrigins
 Made by Pug, Omniv and Pepsi
 
-This is the GitHub repository for the TooManyOrigins addon for the Origins mod. You are able to read the source code for the project here as well as having a cup of coffee for your troubles of coming here.
+This is the GitHub repository for the TooManyOrigins addon for the Origins mod. You are able to read the source code for the project here as well as have a cup of coffee for your troubles of coming here.
 
 If you have found a bug or you just want to suggest a feature you are able to do so [here](https://github.com/MerchantPug/toomanyorigins/issues).
 
